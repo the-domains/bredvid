@@ -1,16 +1,16 @@
-typography_spectrum: 0.253738451981917
+typography_spectrum: 0.6542835829313844
 color:
-  brandStrength: 0.9193597575649619
-  lightness: 0.0819193166680634
-  saturation: 0.07545427326112986
-  rhythmicContrast: 0.1958863257896155
+  brandStrength: 0.7939830692484975
+  lightness: 0.5642110819462687
+  saturation: 0.9064218765124679
+  rhythmicContrast: 0.8689965507946908
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.05797527311369777
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.3505690358579159
 name: bredvid
 title: netrom
 description: viljestyrt du?
